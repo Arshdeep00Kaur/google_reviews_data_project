@@ -178,6 +178,8 @@ schedule.every().day.at("10:00").do(scrape_reviews_for_top_companies)
 
 The project includes two Power BI dashboard files:
 - `Data Mining Event Final Dashboard Final.pbix` - Complete dashboard with all visualizations
+  <img width="1327" height="744" alt="image" src="https://github.com/user-attachments/assets/371efcb7-8270-45ee-b048-54493002ec91" />
+
 - `dataminingevent.pbix` - Draft version
 
 ### Dashboard Features
